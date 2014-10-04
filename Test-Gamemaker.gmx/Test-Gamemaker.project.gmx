@@ -10,6 +10,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\testbart</object>
+    <object>objects\ZIEHIER</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
